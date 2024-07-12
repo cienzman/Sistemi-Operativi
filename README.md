@@ -23,11 +23,13 @@ Il progetto è composto dalle seguenti classi:
    javac semaphore/*.java
 
 2. Esegui il programma specificando il percorso del file di input contenente gli elementi da produrre:
-  ```sh
-  java semaphore.ProducerConsumer <input_file_path>
+   ```sh
+   java semaphore.ProducerConsumer <input_file_path>
 
-  Dove <input_file_path> è il percorso del file di testo contenente gli elementi da produrre. Il file deve avere il seguente   formato:
+- <input_file_path> è il percorso del file di testo contenente gli elementi da produrre. Il file deve avere il seguente   formato:
    ```sh
     <id1>,<name1>
     <id2>,<name2>
     ...
+
+
