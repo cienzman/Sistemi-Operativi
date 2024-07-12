@@ -1,16 +1,14 @@
 # Sistemi-Operativi
-Questo programma implementa il classico problema del produttore-consumatore utilizzando semafori per la sincronizzazione. Il programma prevede due produttori e cinque consumatori che interagiscono con un buffer di dimensione 100. Gli elementi da produrre vengono caricati da un file di input.
+# Problema Produttore-Consumatore con Semafori.
+Questo progetto Java illustra il classico problema del Produttore-Consumatore utilizzando semafori per la sincronizzazione. Il pattern produttore-consumatore coinvolge due tipi di thread: i produttori che producono elementi e li inseriscono in un buffer condiviso, e i consumatori che rimuovono elementi dal buffer e li consumano.
 
-Struttura del Progetto
-Il progetto è suddiviso nelle seguenti classi:
-
-ProducerConsumer: La classe principale che gestisce il buffer, i semafori, e carica gli elementi da un file.
-Producer: Classe che implementa Runnable e contiene la logica per produrre gli elementi.
-Consumer: Classe che implementa Runnable e contiene la logica per consumare gli elementi.
-Item: Classe che rappresenta un elemento con un ID e un nome.
-Funzionalità
-Carica gli elementi da un file di input.
-Due produttori producono elementi e li inseriscono nel buffer.
-Cinque consumatori consumano gli elementi dal buffer.
-Utilizza semafori per gestire l'accesso concorrente al buffer.
-Log degli eventi di produzione e consumo mostrati in console e in un popup alla fine dell'esecuzione.
+Caratteristiche:
+- Semafori: Utilizzati per controllare l'accesso alle risorse condivise (mutex per la sezione critica, empty per tracciare gli slot vuoti nel buffer, full per tracciare gli slot pieni).
+- Gestione dei Thread: Gestione di più thread produttori e consumatori utilizzando la classe Thread di Java.
+- Input da File: Gli elementi da produrre vengono caricati da un file CSV specificato come argomento da riga di comando.
+- Logging: Registrazione dettagliata delle azioni eseguite dai produttori e consumatori, sincronizzata per la sicurezza dei thread.
+Componenti:
+- ProducerConsumer.java: Classe principale che inizializza semafori, buffer e gestisce i thread produttori e consumatori.
+- Producer.java: Classe Runnable che definisce il comportamento del produttore.
+- Consumer.java: Classe Runnable che definisce il comportamento del consumatore.
+- Item.java: Classe semplice che rappresenta gli elementi da produrre/consumare.
