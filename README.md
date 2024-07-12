@@ -25,8 +25,10 @@ Il progetto è composto dalle seguenti classi:
 2. Esegui il programma specificando il percorso del file di input contenente gli elementi da produrre:
     java semaphore.ProducerConsumer <input_file_path>
   Dove <input_file_path> è il percorso del file di testo contenente gli elementi da produrre. Il file deve avere il seguente   formato:
-            <id1>,<name1>
-            <id2>,<name2>
-            ...
+   ```sh
+    <id1>,<name1>
+    <id2>,<name2>
+    ...
    3. Esegui il programma:
-      java semaphore.ProducerConsumer input.txt
+      ```sh
+      java semaphore.ProducerConsumer "../properties/input"
