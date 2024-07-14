@@ -11,25 +11,20 @@ import java.util.concurrent.Executors;
 import java.util.concurrent.ScheduledExecutorService;
 import java.util.concurrent.Semaphore;
 import java.util.concurrent.TimeUnit;
-
 import javax.swing.JOptionPane;
-
 import javax.swing.JScrollPane;
 import javax.swing.JTextArea;
 
 
-//TODO complicare la classe item così che file è più complesso.
-//TODO chiedere bene cosa fa codice
-
 
 public class ProducerConsumer {
     static final int N = 100; // Numero di posizioni nel buffer
-    private final Semaphore mutex = new Semaphore(1); // Controlla l'accesso in sezione critica
+    private final Semaphore mutex = new Semaphore(1); // Semaforo per l'accesso in sezione critica
     private final Semaphore empty = new Semaphore(N); // Conta il numero di posizioni vuote nel buffer
     private final Semaphore full = new Semaphore(0); // Conta il numero di elementi nel buffer
-    private final Queue<Item> buffer = new LinkedList<>(); // Buffer circolare
+    private final Queue<Item> buffer = new LinkedList<>(); // Buffer 
     private final Queue<Item> itemsToProduce = new LinkedList<>(); // Coda degli elementi da produrre
-    private final StringBuilder log = new StringBuilder(); // Log degli output
+    private final StringBuilder log = new StringBuilder(); // Log degli outputs
 
     public static void main(String[] args) {
         if (args.length < 1) {
@@ -40,7 +35,7 @@ public class ProducerConsumer {
 
         String filePath = args[0];
         ProducerConsumer pc = new ProducerConsumer();
-        pc.loadItemsFromFile(filePath); // Carica gli elementi dal file
+        pc.loadItemsFromFile(filePath); // Uso un file di input per caricare gli item
 
         int numProducers = 2; // Numero di produttori
         int numConsumers = 5; // Numero di consumatori
@@ -59,13 +54,13 @@ public class ProducerConsumer {
             consumerThread.start();
         }
 
-        // Usa un ScheduledExecutorService per fermare i thread dopo un certo tempo
+        // Qui di seguito decido di fermare i thread dopo un certo tempo mediante ScheduledExecutorService 
         ScheduledExecutorService scheduler = Executors.newScheduledThreadPool(1);
         scheduler.schedule(() -> {
             for (Thread thread : threads) {
                 thread.interrupt();
             }
-        }, 5, TimeUnit.SECONDS); // Timeout di 10 secondi
+        }, 5, TimeUnit.SECONDS); // Timeout di 6 secondi
 
         // Attendere la terminazione di tutti i thread
         for (Thread thread : threads) {
@@ -119,7 +114,7 @@ public class ProducerConsumer {
             String line;
             while ((line = reader.readLine()) != null) {
                 String[] parts = line.split(",");
-                if (parts.length == 2) { // Verifica che la riga sia formattata correttamente
+                if (parts.length == 2) { // Verifica della corretta formattazione della riga.
                     try {
                         int id = Integer.parseInt(parts[0]);
                         String name = parts[1];

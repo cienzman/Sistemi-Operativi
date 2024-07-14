@@ -15,13 +15,13 @@ public class Producer implements Runnable {
                 if (item == null) {
                     break; // Esce se non ci sono più elementi da produrre
                 }
-                pc.getEmpty().acquire(); // Decrementa il numero delle posizioni vuote (empty.down())
-                pc.getMutex().acquire(); // Entra in sezione critica (mutex.down())
-                enterItem(item); // Mette un nuovo elemento nel buffer
+                pc.getEmpty().acquire(); // (empty.down()) --> Decrementa il numero delle posizioni vuote
+                pc.getMutex().acquire(); // (mutex.down()) --> Entrata in sezione critica 
+                enterItem(item); // Viene messo un nuovo elemento nel buffer
                 pc.logMessage(Thread.currentThread().getName() + " produced " + item);
-                pc.getMutex().release(); // Abbandona la sezione critica (mutex.up())
-                pc.getFull().release(); // Incrementa il numero delle posizioni piene (full.up())
-                Thread.sleep((int) (Math.random() * 1000)); // Simula il tempo di produzione
+                pc.getMutex().release(); // (mutex.up()) --> Abbandono della sezione critica 
+                pc.getFull().release(); // (full.up()) --> Incrementa il numero delle posizioni piene 
+                Thread.sleep((int) (Math.random() * 1000)); // Simulazione del tempo di produzione
             }
         } catch (InterruptedException e) {
             Thread.currentThread().interrupt();
