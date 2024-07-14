@@ -15,9 +15,7 @@ import javax.swing.JOptionPane;
 import javax.swing.JScrollPane;
 import javax.swing.JTextArea;
 
-/**
- * Main class
- */
+
 
 public class ProducerConsumer {
     static final int N = 100; // Numero di posizioni nel buffer

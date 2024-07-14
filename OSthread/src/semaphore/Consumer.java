@@ -1,9 +1,7 @@
 
 package semaphore;
 
-/**
- * Consumer class
- */
+
 public class Consumer implements Runnable {
     private final ProducerConsumer pc;
 
