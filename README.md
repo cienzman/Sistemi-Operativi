@@ -1,6 +1,6 @@
 # Sistemi-Operativi
 # Problema Produttore-Consumatore con Semafori.
-Tale progetto affronta il classico problema del Produttore-Consumatore utilizzando semafori per la sincronizzazione. Il pattern produttore-consumatore coinvolge due tipi di thread: i produttori che producono elementi e li inseriscono in un buffer condiviso, e i consumatori che rimuovono elementi dal buffer e li consumano "offline".
+Tale progetto affronta il classico problema del Produttore-Consumatore utilizzando semafori per la sincronizzazione. Il pattern produttore-consumatore coinvolge due tipi di thread: i produttori che producono elementi e li inseriscono in un buffer condiviso, e i consumatori che rimuovono elementi dal buffer e li consumano in modo asincrono.
 
 ## Funzionalità
 - **Produttori**: producono elementi e li aggiungono al buffer condiviso.
