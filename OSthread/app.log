@@ -1,0 +1,404 @@
+lug 05, 2024 5:58:30 PM semaphore.NotesClass$ProduttoreConsumatore$Producer run
+INFORMAZIONI: Produced: riga 1
+lug 05, 2024 5:58:30 PM semaphore.NotesClass$ProduttoreConsumatore$Producer run
+INFORMAZIONI: Produced: riga 2
+lug 05, 2024 5:58:30 PM semaphore.NotesClass$ProduttoreConsumatore$Producer run
+INFORMAZIONI: Produced: colonna 1
+lug 05, 2024 5:58:30 PM semaphore.NotesClass$ProduttoreConsumatore$Consumer run
+INFORMAZIONI: Consumed: riga 1
+lug 05, 2024 5:58:30 PM semaphore.NotesClass$ProduttoreConsumatore$Consumer run
+INFORMAZIONI: Consumed: riga 2
+lug 05, 2024 5:58:30 PM semaphore.NotesClass$ProduttoreConsumatore$Producer run
+INFORMAZIONI: Produced: riga 3
+lug 05, 2024 5:58:30 PM semaphore.NotesClass$ProduttoreConsumatore$Consumer run
+INFORMAZIONI: Consumed: colonna 1
+lug 05, 2024 5:58:30 PM semaphore.NotesClass$ProduttoreConsumatore$Producer run
+INFORMAZIONI: Produced: colonna 2
+lug 05, 2024 5:58:30 PM semaphore.NotesClass$ProduttoreConsumatore$Producer run
+INFORMAZIONI: Produced: colonna 3
+lug 05, 2024 5:58:30 PM semaphore.NotesClass$ProduttoreConsumatore$Producer run
+INFORMAZIONI: Produced: riga 4
+lug 05, 2024 5:58:30 PM semaphore.NotesClass$ProduttoreConsumatore$Producer run
+INFORMAZIONI: Produced: riga 5
+lug 05, 2024 5:58:30 PM semaphore.NotesClass$ProduttoreConsumatore$Consumer run
+INFORMAZIONI: Consumed: riga 3
+lug 05, 2024 5:58:30 PM semaphore.NotesClass$ProduttoreConsumatore$Consumer run
+INFORMAZIONI: Consumed: colonna 2
+lug 05, 2024 5:58:30 PM semaphore.NotesClass$ProduttoreConsumatore$Consumer run
+INFORMAZIONI: Consumed: colonna 3
+lug 05, 2024 5:58:30 PM semaphore.NotesClass$ProduttoreConsumatore$Consumer run
+INFORMAZIONI: Consumed: riga 4
+lug 05, 2024 5:58:30 PM semaphore.NotesClass$ProduttoreConsumatore$Consumer run
+INFORMAZIONI: Consumed: riga 5
+lug 05, 2024 5:58:30 PM semaphore.NotesClass$ProduttoreConsumatore$Producer run
+INFORMAZIONI: Produced: colonna 4
+lug 05, 2024 5:58:30 PM semaphore.NotesClass$ProduttoreConsumatore$Producer run
+INFORMAZIONI: Produced: riga 6
+lug 05, 2024 5:58:30 PM semaphore.NotesClass$ProduttoreConsumatore$Producer run
+INFORMAZIONI: Produced: colonna 5
+lug 05, 2024 5:58:30 PM semaphore.NotesClass$ProduttoreConsumatore$Producer run
+INFORMAZIONI: Produced: colonna 6
+lug 05, 2024 5:58:30 PM semaphore.NotesClass$ProduttoreConsumatore$Consumer run
+INFORMAZIONI: Consumed: colonna 4
+lug 05, 2024 5:58:30 PM semaphore.NotesClass$ProduttoreConsumatore$Consumer run
+INFORMAZIONI: Consumed: riga 6
+lug 05, 2024 5:58:30 PM semaphore.NotesClass$ProduttoreConsumatore$Consumer run
+INFORMAZIONI: Consumed: colonna 5
+lug 05, 2024 5:58:30 PM semaphore.NotesClass$ProduttoreConsumatore$Consumer run
+INFORMAZIONI: Consumed: colonna 6
+lug 05, 2024 5:58:35 PM semaphore.NotesClass$ProduttoreConsumatore main
+INFORMAZIONI: Main thread finished.
+lug 05, 2024 6:09:57 PM semaphore.NotesClass$ProduttoreConsumatore$Producer run
+INFORMAZIONI: Produced: colonna 1
+lug 05, 2024 6:09:57 PM semaphore.NotesClass$ProduttoreConsumatore$Producer run
+INFORMAZIONI: Produced: colonna 2
+lug 05, 2024 6:09:57 PM semaphore.NotesClass$ProduttoreConsumatore$Producer run
+INFORMAZIONI: Produced: riga 1
+lug 05, 2024 6:09:57 PM semaphore.NotesClass$ProduttoreConsumatore$Producer run
+INFORMAZIONI: Produced: riga 2
+lug 05, 2024 6:09:57 PM semaphore.NotesClass$ProduttoreConsumatore$Producer run
+INFORMAZIONI: Produced: riga 3
+lug 05, 2024 6:09:57 PM semaphore.NotesClass$ProduttoreConsumatore$Producer run
+INFORMAZIONI: Produced: riga 4
+lug 05, 2024 6:09:57 PM semaphore.NotesClass$ProduttoreConsumatore$Producer run
+INFORMAZIONI: Produced: riga 5
+lug 05, 2024 6:09:57 PM semaphore.NotesClass$ProduttoreConsumatore$Producer run
+INFORMAZIONI: Produced: riga 6
+lug 05, 2024 6:09:57 PM semaphore.NotesClass$ProduttoreConsumatore$Consumer run
+INFORMAZIONI: Consumed: colonna 1
+lug 05, 2024 6:09:57 PM semaphore.NotesClass$ProduttoreConsumatore$Consumer run
+INFORMAZIONI: Consumed: colonna 2
+lug 05, 2024 6:09:57 PM semaphore.NotesClass$ProduttoreConsumatore$Consumer run
+INFORMAZIONI: Consumed: riga 1
+lug 05, 2024 6:09:57 PM semaphore.NotesClass$ProduttoreConsumatore$Consumer run
+INFORMAZIONI: Consumed: riga 2
+lug 05, 2024 6:09:57 PM semaphore.NotesClass$ProduttoreConsumatore$Consumer run
+INFORMAZIONI: Consumed: riga 3
+lug 05, 2024 6:09:57 PM semaphore.NotesClass$ProduttoreConsumatore$Consumer run
+INFORMAZIONI: Consumed: riga 4
+lug 05, 2024 6:09:57 PM semaphore.NotesClass$ProduttoreConsumatore$Consumer run
+INFORMAZIONI: Consumed: riga 5
+lug 05, 2024 6:09:57 PM semaphore.NotesClass$ProduttoreConsumatore$Producer run
+INFORMAZIONI: Produced: colonna 3
+lug 05, 2024 6:09:57 PM semaphore.NotesClass$ProduttoreConsumatore$Producer run
+INFORMAZIONI: Produced: colonna 4
+lug 05, 2024 6:09:57 PM semaphore.NotesClass$ProduttoreConsumatore$Producer run
+INFORMAZIONI: Produced: colonna 5
+lug 05, 2024 6:09:57 PM semaphore.NotesClass$ProduttoreConsumatore$Producer run
+INFORMAZIONI: Produced: colonna 6
+lug 05, 2024 6:09:57 PM semaphore.NotesClass$ProduttoreConsumatore$Consumer run
+INFORMAZIONI: Consumed: riga 6
+lug 05, 2024 6:09:57 PM semaphore.NotesClass$ProduttoreConsumatore$Consumer run
+INFORMAZIONI: Consumed: colonna 3
+lug 05, 2024 6:09:57 PM semaphore.NotesClass$ProduttoreConsumatore$Consumer run
+INFORMAZIONI: Consumed: colonna 4
+lug 05, 2024 6:09:57 PM semaphore.NotesClass$ProduttoreConsumatore$Consumer run
+INFORMAZIONI: Consumed: colonna 5
+lug 05, 2024 6:09:57 PM semaphore.NotesClass$ProduttoreConsumatore$Consumer run
+INFORMAZIONI: Consumed: colonna 6
+lug 05, 2024 6:10:02 PM semaphore.NotesClass$ProduttoreConsumatore main
+INFORMAZIONI: Main thread finished.
+lug 05, 2024 6:14:07 PM semaphore.NotesClass$ProduttoreConsumatore$Producer run
+INFORMAZIONI: Produced: riga 1
+lug 05, 2024 6:14:07 PM semaphore.NotesClass$ProduttoreConsumatore$Producer run
+INFORMAZIONI: Produced: riga 1
+lug 05, 2024 6:14:07 PM semaphore.NotesClass$ProduttoreConsumatore$Producer run
+INFORMAZIONI: Produced: riga 1
+lug 05, 2024 6:14:07 PM semaphore.NotesClass$ProduttoreConsumatore$Producer run
+INFORMAZIONI: Produced: riga 1
+lug 05, 2024 6:14:07 PM semaphore.NotesClass$ProduttoreConsumatore$Consumer run
+INFORMAZIONI: Consumed: riga 1
+lug 05, 2024 6:14:07 PM semaphore.NotesClass$ProduttoreConsumatore$Consumer run
+INFORMAZIONI: Consumed: riga 1
+lug 05, 2024 6:14:07 PM semaphore.NotesClass$ProduttoreConsumatore$Consumer run
+INFORMAZIONI: Consumed: riga 1
+lug 05, 2024 6:14:07 PM semaphore.NotesClass$ProduttoreConsumatore$Consumer run
+INFORMAZIONI: Consumed: riga 1
+lug 05, 2024 6:14:07 PM semaphore.NotesClass$ProduttoreConsumatore$Producer run
+INFORMAZIONI: Produced: riga 2
+lug 05, 2024 6:14:07 PM semaphore.NotesClass$ProduttoreConsumatore$Consumer run
+INFORMAZIONI: Consumed: riga 2
+lug 05, 2024 6:14:07 PM semaphore.NotesClass$ProduttoreConsumatore$Producer run
+INFORMAZIONI: Produced: riga 2
+lug 05, 2024 6:14:07 PM semaphore.NotesClass$ProduttoreConsumatore$Producer run
+INFORMAZIONI: Produced: riga 2
+lug 05, 2024 6:14:07 PM semaphore.NotesClass$ProduttoreConsumatore$Producer run
+INFORMAZIONI: Produced: riga 2
+lug 05, 2024 6:14:07 PM semaphore.NotesClass$ProduttoreConsumatore$Consumer run
+INFORMAZIONI: Consumed: riga 2
+lug 05, 2024 6:14:07 PM semaphore.NotesClass$ProduttoreConsumatore$Producer run
+INFORMAZIONI: Produced: riga 3
+lug 05, 2024 6:14:08 PM semaphore.NotesClass$ProduttoreConsumatore$Producer run
+INFORMAZIONI: Produced: riga 3
+lug 05, 2024 6:14:08 PM semaphore.NotesClass$ProduttoreConsumatore$Producer run
+INFORMAZIONI: Produced: riga 3
+lug 05, 2024 6:14:08 PM semaphore.NotesClass$ProduttoreConsumatore$Producer run
+INFORMAZIONI: Produced: riga 3
+lug 05, 2024 6:14:08 PM semaphore.NotesClass$ProduttoreConsumatore$Consumer run
+INFORMAZIONI: Consumed: riga 2
+lug 05, 2024 6:14:08 PM semaphore.NotesClass$ProduttoreConsumatore$Producer run
+INFORMAZIONI: Produced: riga 4
+lug 05, 2024 6:14:08 PM semaphore.NotesClass$ProduttoreConsumatore$Consumer run
+INFORMAZIONI: Consumed: riga 2
+lug 05, 2024 6:14:08 PM semaphore.NotesClass$ProduttoreConsumatore$Producer run
+INFORMAZIONI: Produced: riga 4
+lug 05, 2024 6:14:08 PM semaphore.NotesClass$ProduttoreConsumatore$Producer run
+INFORMAZIONI: Produced: riga 4
+lug 05, 2024 6:14:08 PM semaphore.NotesClass$ProduttoreConsumatore$Consumer run
+INFORMAZIONI: Consumed: riga 3
+lug 05, 2024 6:14:08 PM semaphore.NotesClass$ProduttoreConsumatore$Consumer run
+INFORMAZIONI: Consumed: riga 3
+lug 05, 2024 6:14:08 PM semaphore.NotesClass$ProduttoreConsumatore$Producer run
+INFORMAZIONI: Produced: riga 4
+lug 05, 2024 6:14:08 PM semaphore.NotesClass$ProduttoreConsumatore$Producer run
+INFORMAZIONI: Produced: riga 5
+lug 05, 2024 6:14:08 PM semaphore.NotesClass$ProduttoreConsumatore$Producer run
+INFORMAZIONI: Produced: riga 5
+lug 05, 2024 6:14:08 PM semaphore.NotesClass$ProduttoreConsumatore$Producer run
+INFORMAZIONI: Produced: riga 5
+lug 05, 2024 6:14:08 PM semaphore.NotesClass$ProduttoreConsumatore$Consumer run
+INFORMAZIONI: Consumed: riga 3
+lug 05, 2024 6:14:08 PM semaphore.NotesClass$ProduttoreConsumatore$Consumer run
+INFORMAZIONI: Consumed: riga 3
+lug 05, 2024 6:14:08 PM semaphore.NotesClass$ProduttoreConsumatore$Consumer run
+INFORMAZIONI: Consumed: riga 4
+lug 05, 2024 6:14:08 PM semaphore.NotesClass$ProduttoreConsumatore$Producer run
+INFORMAZIONI: Produced: riga 6
+lug 05, 2024 6:14:08 PM semaphore.NotesClass$ProduttoreConsumatore$Consumer run
+INFORMAZIONI: Consumed: riga 4
+lug 05, 2024 6:14:08 PM semaphore.NotesClass$ProduttoreConsumatore$Producer run
+INFORMAZIONI: Produced: riga 6
+lug 05, 2024 6:14:08 PM semaphore.NotesClass$ProduttoreConsumatore$Consumer run
+INFORMAZIONI: Consumed: riga 4
+lug 05, 2024 6:14:08 PM semaphore.NotesClass$ProduttoreConsumatore$Producer run
+INFORMAZIONI: Produced: riga 5
+lug 05, 2024 6:14:08 PM semaphore.NotesClass$ProduttoreConsumatore$Producer run
+INFORMAZIONI: Produced: riga 6
+lug 05, 2024 6:14:08 PM semaphore.NotesClass$ProduttoreConsumatore$Producer run
+INFORMAZIONI: Produced: riga 6
+lug 05, 2024 6:14:08 PM semaphore.NotesClass$ProduttoreConsumatore$Consumer run
+INFORMAZIONI: Consumed: riga 4
+lug 05, 2024 6:14:08 PM semaphore.NotesClass$ProduttoreConsumatore$Consumer run
+INFORMAZIONI: Consumed: riga 5
+lug 05, 2024 6:14:08 PM semaphore.NotesClass$ProduttoreConsumatore$Consumer run
+INFORMAZIONI: Consumed: riga 5
+lug 05, 2024 6:14:08 PM semaphore.NotesClass$ProduttoreConsumatore$Consumer run
+INFORMAZIONI: Consumed: riga 5
+lug 05, 2024 6:14:08 PM semaphore.NotesClass$ProduttoreConsumatore$Consumer run
+INFORMAZIONI: Consumed: riga 6
+lug 05, 2024 6:14:08 PM semaphore.NotesClass$ProduttoreConsumatore$Consumer run
+INFORMAZIONI: Consumed: riga 6
+lug 05, 2024 6:14:08 PM semaphore.NotesClass$ProduttoreConsumatore$Consumer run
+INFORMAZIONI: Consumed: riga 5
+lug 05, 2024 6:14:08 PM semaphore.NotesClass$ProduttoreConsumatore$Consumer run
+INFORMAZIONI: Consumed: riga 6
+lug 05, 2024 6:14:08 PM semaphore.NotesClass$ProduttoreConsumatore$Consumer run
+INFORMAZIONI: Consumed: riga 6
+lug 05, 2024 6:14:18 PM semaphore.NotesClass$ProduttoreConsumatore main
+INFORMAZIONI: Main thread finished.
+lug 05, 2024 6:16:40 PM semaphore.NotesClass$ProduttoreConsumatore$Producer run
+INFORMAZIONI: Produced: colonna 1 | in=1
+lug 05, 2024 6:16:40 PM semaphore.NotesClass$ProduttoreConsumatore$Producer run
+INFORMAZIONI: Produced: colonna 2 | in=2
+lug 05, 2024 6:16:40 PM semaphore.NotesClass$ProduttoreConsumatore$Producer run
+INFORMAZIONI: Produced: riga 1 | in=3
+lug 05, 2024 6:16:40 PM semaphore.NotesClass$ProduttoreConsumatore$Consumer run
+INFORMAZIONI: Consumed: colonna 1 | out=1
+lug 05, 2024 6:16:40 PM semaphore.NotesClass$ProduttoreConsumatore$Consumer run
+INFORMAZIONI: Consumed: colonna 2 | out=2
+lug 05, 2024 6:16:40 PM semaphore.NotesClass$ProduttoreConsumatore$Producer run
+INFORMAZIONI: Produced: colonna 3 | in=4
+lug 05, 2024 6:16:40 PM semaphore.NotesClass$ProduttoreConsumatore$Consumer run
+INFORMAZIONI: Consumed: riga 1 | out=3
+lug 05, 2024 6:16:40 PM semaphore.NotesClass$ProduttoreConsumatore$Producer run
+INFORMAZIONI: Produced: riga 2 | in=5
+lug 05, 2024 6:16:40 PM semaphore.NotesClass$ProduttoreConsumatore$Producer run
+INFORMAZIONI: Produced: colonna 4 | in=6
+lug 05, 2024 6:16:40 PM semaphore.NotesClass$ProduttoreConsumatore$Consumer run
+INFORMAZIONI: Consumed: colonna 3 | out=4
+lug 05, 2024 6:16:40 PM semaphore.NotesClass$ProduttoreConsumatore$Consumer run
+INFORMAZIONI: Consumed: riga 2 | out=5
+lug 05, 2024 6:16:40 PM semaphore.NotesClass$ProduttoreConsumatore$Producer run
+INFORMAZIONI: Produced: riga 3 | in=7
+lug 05, 2024 6:16:40 PM semaphore.NotesClass$ProduttoreConsumatore$Producer run
+INFORMAZIONI: Produced: riga 4 | in=8
+lug 05, 2024 6:16:40 PM semaphore.NotesClass$ProduttoreConsumatore$Consumer run
+INFORMAZIONI: Consumed: colonna 4 | out=6
+lug 05, 2024 6:16:40 PM semaphore.NotesClass$ProduttoreConsumatore$Consumer run
+INFORMAZIONI: Consumed: riga 3 | out=7
+lug 05, 2024 6:16:40 PM semaphore.NotesClass$ProduttoreConsumatore$Producer run
+INFORMAZIONI: Produced: colonna 5 | in=9
+lug 05, 2024 6:16:40 PM semaphore.NotesClass$ProduttoreConsumatore$Producer run
+INFORMAZIONI: Produced: colonna 6 | in=10
+lug 05, 2024 6:16:40 PM semaphore.NotesClass$ProduttoreConsumatore$Consumer run
+INFORMAZIONI: Consumed: riga 4 | out=8
+lug 05, 2024 6:16:40 PM semaphore.NotesClass$ProduttoreConsumatore$Consumer run
+INFORMAZIONI: Consumed: colonna 5 | out=9
+lug 05, 2024 6:16:40 PM semaphore.NotesClass$ProduttoreConsumatore$Producer run
+INFORMAZIONI: Produced: riga 5 | in=11
+lug 05, 2024 6:16:40 PM semaphore.NotesClass$ProduttoreConsumatore$Consumer run
+INFORMAZIONI: Consumed: colonna 6 | out=10
+lug 05, 2024 6:16:40 PM semaphore.NotesClass$ProduttoreConsumatore$Producer run
+INFORMAZIONI: Produced: riga 6 | in=12
+lug 05, 2024 6:16:40 PM semaphore.NotesClass$ProduttoreConsumatore$Consumer run
+INFORMAZIONI: Consumed: riga 5 | out=11
+lug 05, 2024 6:16:40 PM semaphore.NotesClass$ProduttoreConsumatore$Consumer run
+INFORMAZIONI: Consumed: riga 6 | out=12
+lug 05, 2024 6:16:45 PM semaphore.NotesClass$ProduttoreConsumatore main
+INFORMAZIONI: Main thread finished.
+lug 05, 2024 6:30:12 PM semaphore.NotesClass$ProduttoreConsumatore$Producer run
+INFORMAZIONI: Produced: colonna 1 | in=1
+lug 05, 2024 6:30:12 PM semaphore.NotesClass$ProduttoreConsumatore$Producer run
+INFORMAZIONI: Produced: colonna 2 | in=2
+lug 05, 2024 6:30:12 PM semaphore.NotesClass$ProduttoreConsumatore$Producer run
+INFORMAZIONI: Produced: riga 1 | in=3
+lug 05, 2024 6:30:12 PM semaphore.NotesClass$ProduttoreConsumatore$Producer run
+INFORMAZIONI: Produced: riga 2 | in=4
+lug 05, 2024 6:30:12 PM semaphore.NotesClass$ProduttoreConsumatore$Producer run
+INFORMAZIONI: Produced: riga 3 | in=5
+lug 05, 2024 6:30:12 PM semaphore.NotesClass$ProduttoreConsumatore$Producer run
+INFORMAZIONI: Produced: riga 4 | in=6
+lug 05, 2024 6:30:12 PM semaphore.NotesClass$ProduttoreConsumatore$Producer run
+INFORMAZIONI: Produced: riga 5 | in=7
+lug 05, 2024 6:30:12 PM semaphore.NotesClass$ProduttoreConsumatore$Consumer run
+INFORMAZIONI: Consumed: colonna 1 | out=1
+lug 05, 2024 6:30:12 PM semaphore.NotesClass$ProduttoreConsumatore$Producer run
+INFORMAZIONI: Produced: colonna 3 | in=8
+lug 05, 2024 6:30:12 PM semaphore.NotesClass$ProduttoreConsumatore$Producer run
+INFORMAZIONI: Produced: colonna 4 | in=9
+lug 05, 2024 6:30:12 PM semaphore.NotesClass$ProduttoreConsumatore$Producer run
+INFORMAZIONI: Produced: colonna 5 | in=10
+lug 05, 2024 6:30:12 PM semaphore.NotesClass$ProduttoreConsumatore$Consumer run
+INFORMAZIONI: Consumed: colonna 2 | out=2
+lug 05, 2024 6:30:12 PM semaphore.NotesClass$ProduttoreConsumatore$Consumer run
+INFORMAZIONI: Consumed: riga 1 | out=3
+lug 05, 2024 6:30:12 PM semaphore.NotesClass$ProduttoreConsumatore$Consumer run
+INFORMAZIONI: Consumed: riga 2 | out=4
+lug 05, 2024 6:30:12 PM semaphore.NotesClass$ProduttoreConsumatore$Consumer run
+INFORMAZIONI: Consumed: riga 3 | out=5
+lug 05, 2024 6:30:12 PM semaphore.NotesClass$ProduttoreConsumatore$Consumer run
+INFORMAZIONI: Consumed: riga 4 | out=6
+lug 05, 2024 6:30:12 PM semaphore.NotesClass$ProduttoreConsumatore$Consumer run
+INFORMAZIONI: Consumed: riga 5 | out=7
+lug 05, 2024 6:30:12 PM semaphore.NotesClass$ProduttoreConsumatore$Consumer run
+INFORMAZIONI: Consumed: colonna 3 | out=8
+lug 05, 2024 6:30:12 PM semaphore.NotesClass$ProduttoreConsumatore$Consumer run
+INFORMAZIONI: Consumed: colonna 4 | out=9
+lug 05, 2024 6:30:12 PM semaphore.NotesClass$ProduttoreConsumatore$Producer run
+INFORMAZIONI: Produced: riga 6 | in=11
+lug 05, 2024 6:30:12 PM semaphore.NotesClass$ProduttoreConsumatore$Consumer run
+INFORMAZIONI: Consumed: colonna 5 | out=10
+lug 05, 2024 6:30:12 PM semaphore.NotesClass$ProduttoreConsumatore$Producer run
+INFORMAZIONI: Produced: colonna 6 | in=12
+lug 05, 2024 6:30:12 PM semaphore.NotesClass$ProduttoreConsumatore$Consumer run
+INFORMAZIONI: Consumed: riga 6 | out=11
+lug 05, 2024 6:30:12 PM semaphore.NotesClass$ProduttoreConsumatore$Consumer run
+INFORMAZIONI: Consumed: colonna 6 | out=12
+lug 05, 2024 6:30:17 PM semaphore.NotesClass$ProduttoreConsumatore main
+INFORMAZIONI: Main thread finished.
+lug 05, 2024 6:33:52 PM semaphore.NotesClass$ProduttoreConsumatore$Producer run
+GRAVE: Producer interrupted or error: For input string: "riga 1"
+lug 05, 2024 6:33:52 PM semaphore.NotesClass$ProduttoreConsumatore$Producer run
+GRAVE: Producer interrupted or error: For input string: "colonna 1"
+lug 05, 2024 6:33:57 PM semaphore.NotesClass$ProduttoreConsumatore main
+INFORMAZIONI: Main thread finished.
+lug 05, 2024 6:34:51 PM semaphore.NotesClass$ProduttoreConsumatore$Producer run
+INFORMAZIONI: Produced: 1 | in=1
+lug 05, 2024 6:34:51 PM semaphore.NotesClass$ProduttoreConsumatore$Producer run
+INFORMAZIONI: Produced: 2 | in=2
+lug 05, 2024 6:34:51 PM semaphore.NotesClass$ProduttoreConsumatore$Producer run
+INFORMAZIONI: Produced: 3 | in=3
+lug 05, 2024 6:34:51 PM semaphore.NotesClass$ProduttoreConsumatore$Producer run
+INFORMAZIONI: Produced: 7 | in=4
+lug 05, 2024 6:34:51 PM semaphore.NotesClass$ProduttoreConsumatore$Producer run
+INFORMAZIONI: Produced: 8 | in=5
+lug 05, 2024 6:34:51 PM semaphore.NotesClass$ProduttoreConsumatore$Consumer run
+INFORMAZIONI: Consumed: 1 | out=1 | sum=1
+lug 05, 2024 6:34:51 PM semaphore.NotesClass$ProduttoreConsumatore$Consumer run
+INFORMAZIONI: Consumed: 2 | out=2 | sum=3
+lug 05, 2024 6:34:51 PM semaphore.NotesClass$ProduttoreConsumatore$Consumer run
+INFORMAZIONI: Consumed: 3 | out=3 | sum=6
+lug 05, 2024 6:34:51 PM semaphore.NotesClass$ProduttoreConsumatore$Consumer run
+INFORMAZIONI: Consumed: 7 | out=4 | sum=13
+lug 05, 2024 6:34:51 PM semaphore.NotesClass$ProduttoreConsumatore$Consumer run
+INFORMAZIONI: Consumed: 8 | out=5 | sum=21
+lug 05, 2024 6:34:51 PM semaphore.NotesClass$ProduttoreConsumatore$Producer run
+INFORMAZIONI: Produced: 4 | in=6
+lug 05, 2024 6:34:51 PM semaphore.NotesClass$ProduttoreConsumatore$Producer run
+INFORMAZIONI: Produced: 9 | in=7
+lug 05, 2024 6:34:51 PM semaphore.NotesClass$ProduttoreConsumatore$Producer run
+INFORMAZIONI: Produced: 10 | in=8
+lug 05, 2024 6:34:51 PM semaphore.NotesClass$ProduttoreConsumatore$Producer run
+INFORMAZIONI: Produced: 11 | in=9
+lug 05, 2024 6:34:51 PM semaphore.NotesClass$ProduttoreConsumatore$Producer run
+INFORMAZIONI: Produced: 5 | in=10
+lug 05, 2024 6:34:51 PM semaphore.NotesClass$ProduttoreConsumatore$Producer run
+INFORMAZIONI: Produced: 6 | in=11
+lug 05, 2024 6:34:51 PM semaphore.NotesClass$ProduttoreConsumatore$Consumer run
+INFORMAZIONI: Consumed: 4 | out=6 | sum=25
+lug 05, 2024 6:34:51 PM semaphore.NotesClass$ProduttoreConsumatore$Consumer run
+INFORMAZIONI: Consumed: 9 | out=7 | sum=34
+lug 05, 2024 6:34:51 PM semaphore.NotesClass$ProduttoreConsumatore$Consumer run
+INFORMAZIONI: Consumed: 10 | out=8 | sum=44
+lug 05, 2024 6:34:51 PM semaphore.NotesClass$ProduttoreConsumatore$Consumer run
+INFORMAZIONI: Consumed: 11 | out=9 | sum=55
+lug 05, 2024 6:34:51 PM semaphore.NotesClass$ProduttoreConsumatore$Consumer run
+INFORMAZIONI: Consumed: 5 | out=10 | sum=60
+lug 05, 2024 6:34:51 PM semaphore.NotesClass$ProduttoreConsumatore$Consumer run
+INFORMAZIONI: Consumed: 6 | out=11 | sum=66
+lug 05, 2024 6:34:51 PM semaphore.NotesClass$ProduttoreConsumatore$Producer run
+INFORMAZIONI: Produced: 12 | in=12
+lug 05, 2024 6:34:51 PM semaphore.NotesClass$ProduttoreConsumatore$Consumer run
+INFORMAZIONI: Consumed: 12 | out=12 | sum=78
+lug 05, 2024 6:34:56 PM semaphore.NotesClass$ProduttoreConsumatore main
+INFORMAZIONI: Main thread finished.
+lug 05, 2024 6:38:55 PM semaphore.NotesClass$ProduttoreConsumatore$Producer run
+INFORMAZIONI: Deposited: 1.0 | in=1
+lug 05, 2024 6:38:55 PM semaphore.NotesClass$ProduttoreConsumatore$Producer run
+INFORMAZIONI: Deposited: 7.0 | in=2
+lug 05, 2024 6:38:55 PM semaphore.NotesClass$ProduttoreConsumatore$Producer run
+INFORMAZIONI: Deposited: 2.0 | in=3
+lug 05, 2024 6:38:55 PM semaphore.NotesClass$ProduttoreConsumatore$Producer run
+INFORMAZIONI: Deposited: 3.0 | in=4
+lug 05, 2024 6:38:55 PM semaphore.NotesClass$ProduttoreConsumatore$Consumer run
+INFORMAZIONI: Processed deposit: 1.0 | out=1 | account balance=1.0
+lug 05, 2024 6:38:55 PM semaphore.NotesClass$ProduttoreConsumatore$Consumer run
+INFORMAZIONI: Processed deposit: 7.0 | out=2 | account balance=8.0
+lug 05, 2024 6:38:55 PM semaphore.NotesClass$ProduttoreConsumatore$Consumer run
+INFORMAZIONI: Processed deposit: 2.0 | out=3 | account balance=10.0
+lug 05, 2024 6:38:55 PM semaphore.NotesClass$ProduttoreConsumatore$Consumer run
+INFORMAZIONI: Processed deposit: 3.0 | out=4 | account balance=13.0
+lug 05, 2024 6:38:55 PM semaphore.NotesClass$ProduttoreConsumatore$Producer run
+INFORMAZIONI: Deposited: 8.0 | in=5
+lug 05, 2024 6:38:55 PM semaphore.NotesClass$ProduttoreConsumatore$Producer run
+INFORMAZIONI: Deposited: 9.0 | in=6
+lug 05, 2024 6:38:55 PM semaphore.NotesClass$ProduttoreConsumatore$Producer run
+INFORMAZIONI: Deposited: 10.0 | in=7
+lug 05, 2024 6:38:55 PM semaphore.NotesClass$ProduttoreConsumatore$Producer run
+INFORMAZIONI: Deposited: 4.0 | in=8
+lug 05, 2024 6:38:55 PM semaphore.NotesClass$ProduttoreConsumatore$Producer run
+INFORMAZIONI: Deposited: 5.0 | in=9
+lug 05, 2024 6:38:55 PM semaphore.NotesClass$ProduttoreConsumatore$Consumer run
+INFORMAZIONI: Processed deposit: 8.0 | out=5 | account balance=21.0
+lug 05, 2024 6:38:55 PM semaphore.NotesClass$ProduttoreConsumatore$Consumer run
+INFORMAZIONI: Processed deposit: 9.0 | out=6 | account balance=30.0
+lug 05, 2024 6:38:55 PM semaphore.NotesClass$ProduttoreConsumatore$Consumer run
+INFORMAZIONI: Processed deposit: 10.0 | out=7 | account balance=40.0
+lug 05, 2024 6:38:55 PM semaphore.NotesClass$ProduttoreConsumatore$Consumer run
+INFORMAZIONI: Processed deposit: 4.0 | out=8 | account balance=44.0
+lug 05, 2024 6:38:55 PM semaphore.NotesClass$ProduttoreConsumatore$Consumer run
+INFORMAZIONI: Processed deposit: 5.0 | out=9 | account balance=49.0
+lug 05, 2024 6:38:55 PM semaphore.NotesClass$ProduttoreConsumatore$Producer run
+INFORMAZIONI: Deposited: 11.0 | in=10
+lug 05, 2024 6:38:55 PM semaphore.NotesClass$ProduttoreConsumatore$Producer run
+INFORMAZIONI: Deposited: 12.0 | in=11
+lug 05, 2024 6:38:55 PM semaphore.NotesClass$ProduttoreConsumatore$Producer run
+INFORMAZIONI: Deposited: 6.0 | in=12
+lug 05, 2024 6:38:55 PM semaphore.NotesClass$ProduttoreConsumatore$Consumer run
+INFORMAZIONI: Processed deposit: 11.0 | out=10 | account balance=60.0
+lug 05, 2024 6:38:55 PM semaphore.NotesClass$ProduttoreConsumatore$Consumer run
+INFORMAZIONI: Processed deposit: 12.0 | out=11 | account balance=72.0
+lug 05, 2024 6:38:55 PM semaphore.NotesClass$ProduttoreConsumatore$Consumer run
+INFORMAZIONI: Processed deposit: 6.0 | out=12 | account balance=78.0
+lug 05, 2024 6:39:00 PM semaphore.NotesClass$ProduttoreConsumatore main
+INFORMAZIONI: Main thread finished. Final account balance: 78.0
