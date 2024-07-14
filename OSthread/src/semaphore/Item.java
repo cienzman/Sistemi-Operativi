@@ -1,6 +1,5 @@
 package semaphore;
 
-
 public class Item {
     private final int id;
     private final String name;

@@ -1,6 +1,5 @@
 package semaphore;
 
-
 public class Producer implements Runnable {
     private final ProducerConsumer pc;
 
